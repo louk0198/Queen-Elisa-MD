@@ -32,7 +32,7 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['212661809542'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = ['212661809542'] // Owner number. , (අයිතිකරුගේ නම්බර් එක )
 global.pemilik = ['212661809542'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['212661809542'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'LO9MANE' // Your name ඔබේ නම 
