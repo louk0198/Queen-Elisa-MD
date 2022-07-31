@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['212661809542'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['212661809542'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['212661809542'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'LO9MANE' // Your name ඔබේ නම 
+global.botnma = '💃 𝐋𝐎9𝐌𝐀𝐍𝐄 𝐁𝐨𝐭  𝐌𝐀𝐑𝐎𝐂💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝐋𝐎9𝐌𝐀𝐍𝐄 𝐁𝐎𝐓' //ownernama,ownername
+global.packname = 'مࢪاڪشي صبڪ❤️‍🔥🫀' // Sticker package name 
+global.author = 'مࢪاڪشين هࢪبانين عليڪم😻' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -60,9 +60,9 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐋𝐎9𝐌𝐀𝐍𝐄 𝐁𝐎𝐓 𝐌𝐎𝐑𝐎𝐂𝐂𝐎
 global.mess = {
-    success: '✅ Done!',
+    success: '✅𝐎𝐊 𝐇𝐇  Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'Bot must be admin neh!',
     owner: 'This cmd is for Elisa bot owner only',
